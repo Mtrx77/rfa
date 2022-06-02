@@ -25,4 +25,4 @@ Color = bc.Color;
 FontSize = Enum.FontSize.Size8;
 })
 end 
-delay(1,lasc())
+
